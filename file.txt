@@ -1,1 +1,2 @@
-this is the  file from file.txt
+This is first file
+now, we are learning github ............
